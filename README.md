@@ -17,8 +17,8 @@ BOM:
 - 1x XIAO RP2040
 - 6x Blank DSA Keycaps
 - 330 ohms resistor
-- 6x M3x16 Bolt
-- 6x M3 Heatset
+- 4x M3x16 Bolt
+- 4x M3 Heatset
 
 Others:
 - KMK Firmware
